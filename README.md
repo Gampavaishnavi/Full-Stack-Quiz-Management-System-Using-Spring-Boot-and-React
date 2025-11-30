@@ -178,8 +178,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Vaishnavi Gampa**
+- GitHub: [@Gampavaishnavi](https://github.com/Gampavaishnavi)
 
 ## 🙏 Acknowledgments
 
